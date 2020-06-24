@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperCoolLocation</string>
+    <string name="location_place_holder">Location Place Holder</string>
+    <string name="permission_requirement">You need the location permission to use this application.</string>
+    <string name="open_settings_text">Open Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
